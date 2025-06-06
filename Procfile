@@ -1,0 +1,1 @@
+worker: python nova_trigger.py
